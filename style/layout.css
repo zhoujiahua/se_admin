@@ -1,0 +1,29 @@
+@charset "UTF-8";
+
+html,
+body {
+    overflow: hidden;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    position: relative;
+}
+
+.wrapper {
+    width: 100%;
+    min-height: 100%;
+}
+
+.main {
+    padding: 15px;
+}
+
+.main-body {
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+}
